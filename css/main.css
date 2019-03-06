@@ -1,0 +1,26 @@
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #eeeeee;
+}
+
+td{
+padding-left:50px;
+padding-right:50px;
+}
+
+.head
+{
+	text-align:center;
+}
+
+
+.subjects {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}

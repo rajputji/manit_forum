@@ -1,0 +1,9 @@
+.marquee {
+  width: 205px;
+  overflow: hidden;
+}
+
+.ver {
+  height: 300px;
+  width: 205px;
+}

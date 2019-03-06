@@ -1,0 +1,54 @@
+
+.field_set{
+  border-style: solid;
+  border-radius: 15px;
+}
+
+.feedbackDetails{
+    padding-left: 20px;
+}
+
+.hr{
+clear: both;
+}
+
+.profileImage{
+margin-left:40px;
+float:left;
+}
+
+
+.userContent{
+float:left;
+margin-left:60px;
+float:clear;
+}
+
+.logout{
+float:right;
+}
+
+.subjects {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.Question{
+  padding-left: 30px;
+  width: 810px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.registerSubjects{
+  margin-left:50px;
+}
